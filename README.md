@@ -1,2 +1,2 @@
-# Sandy
+# About me
 My personal repository
